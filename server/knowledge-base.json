@@ -1,0 +1,151 @@
+{
+  "personal": {
+    "name": "Kurt Setriani Bognot",
+    "location": "Calumpit, Bulacan",
+    "currentRole": "College Student, Graphics Designer, Web Developer + AI Integration",
+    "background": "2-3+ years Media Editing, 3+ years Web Dev (junior React)",
+    "interests": ["Gaming", "Creative Dev", "Code/Hardware Tinkering", "Content Creation"],
+    "careerGoals": ["Web & Mobile Developer", "Game Dev experience"],
+    "aboutBio": "With over 3 years of experience in web development, skilled in HTML, CSS, JavaScript, and various frameworks. Passionate about design and media editing to create visually appealing websites with exceptional user experience. Strong communicator and team player, thrives in collaborative environments, always eager to learn new technologies."
+  },
+  "education": [
+    {
+      "institution": "STI College Malolos, Bulacan",
+      "degree": "Bachelor of Science in Information Technology",
+      "yearRange": "A.Y. 2026 — Present",
+      "type": "College"
+    },
+    {
+      "institution": "Calumpit National High School, Calumpit, Bulacan",
+      "degree": "Senior High School — TVL - ICT",
+      "yearRange": "S.Y. 2024 — 2026",
+      "type": "Senior High School"
+    },
+    {
+      "institution": "La Verdad Christian College, Apalit, Pampanga",
+      "degree": "Junior High School",
+      "yearRange": "S.Y. 2019 — 2024",
+      "type": "Junior High School"
+    },
+    {
+      "institution": "San Marcos Elementary School, Calumpit, Bulacan",
+      "degree": "Elementary School",
+      "yearRange": "S.Y. 2019 — 2024",
+      "type": "Elementary"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Executive Secretary",
+      "organization": "The Core Techs",
+      "description": "Social Media Manager at CNHS School Organization",
+      "yearRange": "S.Y. 2025 — 2026"
+    },
+    {
+      "role": "UI/UX Design Certification",
+      "organization": "MSICONNECT Crash Course for Figma UI/UX Design",
+      "yearRange": "2025"
+    }
+  ],
+  "expertise": [
+    {
+      "area": "Web Development",
+      "description": "HTML, CSS, JavaScript, React, Angular — building responsive and modern web applications."
+    },
+    {
+      "area": "Graphic Design",
+      "description": "Adobe Photoshop, Illustrator, Figma — creating stunning visuals and brand identities."
+    },
+    {
+      "area": "Media Editing",
+      "description": "Adobe Premiere Pro, After Effects — producing polished video content and motion graphics."
+    },
+    {
+      "area": "Responsive Design",
+      "description": "Cross-browser compatible layouts that adapt seamlessly to any screen size."
+    },
+    {
+      "area": "SEO Optimization",
+      "description": "On-page and technical SEO strategies to boost visibility and performance."
+    },
+    {
+      "area": "UI/UX Design",
+      "description": "Figma prototyping and user-centered design for intuitive digital experiences."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "A clean and modern portfolio to showcase skills, projects, and experience with responsive design and interactive elements.",
+      "url": null,
+      "status": "completed"
+    },
+    {
+      "name": "Student Information System",
+      "description": "A web-based system for managing student records, grades, and academic information.",
+      "url": "http://sisdatabase2026.somee.com/",
+      "status": "completed"
+    },
+    {
+      "name": "NOTINO",
+      "description": "A note taking app for organizing ideas and tasks.",
+      "url": null,
+      "status": "coming soon"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Senior High School Diploma",
+      "organization": "Calumpit National High School",
+      "type": "Diploma"
+    },
+    {
+      "title": "National Certificate in Animation II",
+      "organization": "TESDA",
+      "type": "Certificate of Recognition"
+    },
+    {
+      "title": "ROBOCUP Robotic Skills Competition",
+      "organization": "2025 Regional Science and Technology Innovation Week",
+      "type": "Certificate of Recognition"
+    },
+    {
+      "title": "Social Media Manager / Executive Secretary",
+      "organization": "The Core Techs",
+      "type": "Certificate of Recognition"
+    },
+    {
+      "title": "Work Immersion",
+      "organization": "Human Resource Management Office | Municipality of Calumpit",
+      "type": "Certificate of Recognition"
+    },
+    {
+      "title": "UI/UX Design Certification",
+      "organization": "MSTCONNECT",
+      "type": "Certificate of Completion",
+      "year": "2025"
+    }
+  ],
+  "services": [
+    {
+      "service": "Web Development",
+      "description": "Custom website design and development using the latest technologies to create responsive and user-friendly websites."
+    },
+    {
+      "service": "Graphic Design",
+      "description": "Creating visually appealing graphics for websites, social media, and marketing materials."
+    },
+    {
+      "service": "UI/UX Design",
+      "description": "Designing intuitive and engaging user interfaces and experiences that delight users."
+    },
+    {
+      "service": "System Development",
+      "description": "Building and maintaining robust and scalable web applications tailored to your needs."
+    }
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/kurtsetriani.bognot",
+    "linkedin": "https://www.linkedin.com/in/kurt-setriani-bognot-11b05331a/"
+  }
+}

@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+server/node_modules/
+
+# Environment variables (API keys, secrets)
+.env
+server/.env
+
+# Next.js build output
+.next/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright MCP logs
+.playwright-mcp/
