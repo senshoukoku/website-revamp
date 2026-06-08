@@ -29,18 +29,3 @@ server/           — Express API (POST /api/chat), Groq client, knowledge base
 assets/           — profile photo, project screenshots, certificates, logo designs
 plans/            — build plans and task docs
 ```
-
-## Getting Started
-
-### Frontend
-
-Open `src/index.html` in a browser — no build step required.
-
-### Server
-
-```bash
-cd server
-cp .env.example .env   # add your GROQ_API_KEY
-npm install
-npm start              # runs on port 3001
-```
