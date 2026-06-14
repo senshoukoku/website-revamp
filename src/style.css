@@ -695,14 +695,13 @@ p {
 }
 
 .timeline-item.right {
-  padding-left: 50%;
+  padding-left: calc(50% + 36px);
 }
 
 .timeline-item.left {
-  padding-right: 50%;
+  padding-right: calc(50% + 36px);
   text-align: right;
 }
-
 
 
 .timeline-dot {
@@ -729,7 +728,7 @@ p {
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);
   padding: 48px;
-  max-width: 640px;
+  width: 100%;
   transition: border-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
 }
 
