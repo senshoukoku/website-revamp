@@ -38,26 +38,31 @@
     {
       "role": "Graphic Designer",
       "organization": "Luffy D Printing Services",
+      "description": "Designed print-ready graphics, logos, and marketing materials for client projects",
       "yearRange": "Jan 2026 — Apr 2026"
     },
     {
       "role": "Work Immersion",
       "organization": "Human Resource Management, Municipal of Calumpit",
+      "description": "Assisted with administrative tasks and document management in the HR office",
       "yearRange": "Jan 2026 — Feb 2026"
     },
     {
       "role": "Motion Graphics",
       "organization": "Figma & After Effects",
+      "description": "Created animated transitions, explainer videos, and dynamic visual content",
       "yearRange": "2024 — 2025"
     },
     {
       "role": "Animation",
       "organization": "Adobe Animate",
+      "description": "Developed 2D animations and interactive multimedia content",
       "yearRange": "2023 — 2025"
     },
     {
       "role": "UI/UX Graphic Designer",
       "organization": "Figma",
+      "description": "Designed wireframes, prototypes, and user interfaces for web and mobile applications",
       "yearRange": "2021 — 2025"
     }
   ],

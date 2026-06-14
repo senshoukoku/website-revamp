@@ -764,6 +764,13 @@ p {
   background: rgba(var(--accent-rgb), 0.04);
 }
 
+.timeline-description {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin-top: 12px;
+}
+
 /* ===== Projects ===== */
 
 .projects-grid {
