@@ -36,15 +36,29 @@
   ],
   "experience": [
     {
-      "role": "Executive Secretary",
-      "organization": "The Core Techs",
-      "description": "Social Media Manager at CNHS School Organization",
-      "yearRange": "S.Y. 2025 — 2026"
+      "role": "Graphic Designer",
+      "organization": "Luffy D Printing Services",
+      "yearRange": "Jan 2026 — Apr 2026"
     },
     {
-      "role": "UI/UX Design Certification",
-      "organization": "MSICONNECT Crash Course for Figma UI/UX Design",
-      "yearRange": "2025"
+      "role": "Work Immersion",
+      "organization": "Human Resource Management, Municipal of Calumpit",
+      "yearRange": "Jan 2026 — Feb 2026"
+    },
+    {
+      "role": "Motion Graphics",
+      "organization": "Figma & After Effects",
+      "yearRange": "2024 — 2025"
+    },
+    {
+      "role": "Animation",
+      "organization": "Adobe Animate",
+      "yearRange": "2023 — 2025"
+    },
+    {
+      "role": "UI/UX Graphic Designer",
+      "organization": "Figma",
+      "yearRange": "2021 — 2025"
     }
   ],
   "expertise": [
