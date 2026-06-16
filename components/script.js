@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // === Typewriter Effect ===
   const typewriterEl = document.getElementById('typewriter');
   if (typewriterEl) {
-    const phrases = ['AI-ASSISTED FULL STACK WEB DEVELOPER', 'AI IMPLEMENTATION SPECIALIST', 'CREATIVES & DESIGN SPECIALIST', 'UI/UX DESIGNER'
+    const phrases = ['AI-DRIVEN FULL STACK WEB DEV', 'AI IMPLEMENTATION SPECIALIST', 'CREATIVES & DESIGN SPECIALIST', 'UI/UX DESIGNER'
     ];
     let phraseIndex = 0;
     let charIndex = 0;
